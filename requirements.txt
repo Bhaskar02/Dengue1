@@ -1,0 +1,9 @@
+geopandas
+keplergl
+pip==22.0.4
+folium
+streamlit
+streamlit-folium
+streamlit-keplergl
+git+git://github.com/giswqs/leafmap
+git+git://github.com/giswqs/geemap
