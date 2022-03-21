@@ -1,7 +1,7 @@
 geopandas
 keplergl
 pip==22.0.4
-folium
+#folium
 streamlit
 streamlit-folium
 streamlit-keplergl
